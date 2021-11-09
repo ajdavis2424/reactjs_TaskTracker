@@ -1,7 +1,7 @@
 # reactjs_TaskTracker
-    ##Description- This simple task tracker app was created using REACT.JS
+# Description- This simple task tracker app was created using REACT.JS
     
-    ##Table of Contents
+   # Table of Contents
     |                               |                         |
     | ----------------------------- | ----------------------- |
     | [Deloyed Project](#deployed)  | [Questions](#questions) |
