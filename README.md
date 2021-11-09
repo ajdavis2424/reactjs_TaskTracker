@@ -10,17 +10,22 @@
     | [Usage](#usage)               |                         |
     |                               |                         |
     
-    ##Installation
+   # Installation
     npm start, npm server
-    ##Usage
+   #Usage
     Default usage
-    ##Contributing
+    
+   #Contributing
     Alexander J. Davis
-    ##Questions
+   
+   #Questions
     Questions regarding this project:
-    GitHub profile: https://github.com/ajdavis2424
-    Email: ajdavis2424@gmail.com
-    ##License
+    
+   # GitHub profile: https://github.com/ajdavis2424
+    
+   Email: ajdavis2424@gmail.com
+    
+   ##License
     This project is licensed under the MIT License
     [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     MIT
